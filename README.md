@@ -1,5 +1,5 @@
-# Sikka - Egyptian Railway Companion App
-Sekka is a modern, user-centric Flutter application designed to revolutionize the train travel experience in Egypt. It provides passengers with real-time tracking, seamless ticket management, and enhanced safety features, all wrapped in a culturally inspired, sleek UI.
+# Sekkah - Egyptian Railway Companion App
+Sekkah is a modern, user-centric Flutter application designed to revolutionize the train travel experience in Egypt. It provides passengers with real-time tracking, seamless ticket management, and enhanced safety features, all wrapped in a culturally inspired, sleek UI.
 
 ## Key Features
 - Live Trip Tracking: Real-time monitoring of train location, and estimated time of arrival (ETA) using GPS integration.
