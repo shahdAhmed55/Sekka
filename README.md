@@ -14,7 +14,7 @@ Sekka is a modern, user-centric Flutter application designed to revolutionize th
 
 - User Profile Management: Secure storage of user data (National ID, Phone Number) using local or cloud databases.
 
-# Technical Stack
+## Technical Stack
 Framework: Flutter (Dart)
 
 State Management: Provider
@@ -27,15 +27,13 @@ Location Services: geolocator & Maps_flutter.
 
 UI/UX: Custom-designed widgets focusing on high readability and "Egyptian Railway" branding.
 
-UI Previews
+## UI Previews
 
 Onboarding: Elegant login and registration flow.
 
 Tracking: Real-time dashboard with speed and time metrics.
 
-History: Organized list of recent and upcoming journeys.
-
-# How to Run
+## How to Run
 Clone the repository: git@github.com:shahdAhmed55/Sekka.git
 
 Install dependencies: 
