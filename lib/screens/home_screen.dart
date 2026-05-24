@@ -6,7 +6,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         body: AppBar(
-          title: Text("hi in sekka app your friend in your way"),
+          title: Text("hi!!! in sekka app your friend in your way"),
         ),
     );
   }
