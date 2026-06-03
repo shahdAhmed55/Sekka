@@ -1,17 +1,20 @@
-# shahd
+# sekkah app
+Egyptian Railway Companion App
+The perfect partner for train travel.
 
-A new Flutter project.
+## presentation
+https://canva.link/puv39znoz5q9wuu
 
-## Getting Started
+## Application Advantages
+  - Live Trip Tracking
+  - Interactive Journey Timeline
+  - Smart Ticket Management
+  - Safety & Emergency Hub
 
-This project is a starting point for a Flutter application.
+## How to run 
+clone repo 
+run
+  - flutter clean
+  - flutter pub git
+  - flutter run
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
